@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuoteApps</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="floating">Floating</string>
+    <string name="next">NEXT</string>
+    <string name="bruce_wayne">Bruce Wayne</string>
+</resources>
